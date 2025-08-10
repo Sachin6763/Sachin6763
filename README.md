@@ -79,12 +79,5 @@ I’m a **Computer Engineering student at COEP** and an aspiring software engine
 
 ---
 
-## 📷 Contributions Snapshot
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sachin6763/Sachin6763/main/91ec5636-8e76-47f1-90e8-8faa3c4ea4f4.png" alt="GitHub Contributions Snapshot" width="500">
-</p>
-
----
-
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
