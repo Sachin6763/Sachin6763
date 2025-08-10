@@ -74,7 +74,7 @@ I’m a **Computer Engineering student at COEP** and an aspiring software engine
 
 ## 📈 Top Contributed Repos
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sachin6763&limit=5&theme=radical&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sachin6763&limit=5&theme=radical&combine_all_yearly_contributions=true&exclude_repo=Sachin6763">
 </p>
 
 ---
