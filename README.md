@@ -15,7 +15,21 @@ I’m a **Computer Engineering student at COEP** and an aspiring software engine
 ---
 
 ## 🛠 Tech Stack
-**C, C++, Python, Java, SQL, HTML5, CSS3, JavaScript, ReactJS, Node.js, Express.js, MySQL, MongoDB, Git, Postman**
+
+**Languages:**  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white)
+
+**Web Development:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+**Familiar:**  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-102230?logo=pytorch&logoColor=white)
 
 ---
 
@@ -42,6 +56,13 @@ I’m a **Computer Engineering student at COEP** and an aspiring software engine
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sachin6763&theme=radical&no-frame=true&margin-w=15&margin-h=15">
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -51,4 +72,19 @@ I’m a **Computer Engineering student at COEP** and an aspiring software engine
 
 ---
 
+## 📈 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sachin6763&limit=5&theme=radical&combine_all_yearly_contributions=true">
+</p>
+
+---
+
+## 📷 Contributions Snapshot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sachin6763/Sachin6763/main/91ec5636-8e76-47f1-90e8-8faa3c4ea4f4.png" alt="GitHub Contributions Snapshot" width="500">
+</p>
+
+---
+
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
